@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diprella_login/static/css/main.c450f6b6.chunk.css",
+    "main.js": "/diprella_login/static/js/main.e5acd4bb.chunk.js",
+    "main.js.map": "/diprella_login/static/js/main.e5acd4bb.chunk.js.map",
+    "runtime-main.js": "/diprella_login/static/js/runtime-main.e3772f16.js",
+    "runtime-main.js.map": "/diprella_login/static/js/runtime-main.e3772f16.js.map",
+    "static/js/2.005e3cfb.chunk.js": "/diprella_login/static/js/2.005e3cfb.chunk.js",
+    "static/js/2.005e3cfb.chunk.js.map": "/diprella_login/static/js/2.005e3cfb.chunk.js.map",
+    "static/js/3.2612e787.chunk.js": "/diprella_login/static/js/3.2612e787.chunk.js",
+    "static/js/3.2612e787.chunk.js.map": "/diprella_login/static/js/3.2612e787.chunk.js.map",
+    "index.html": "/diprella_login/index.html",
+    "static/css/main.c450f6b6.chunk.css.map": "/diprella_login/static/css/main.c450f6b6.chunk.css.map",
+    "static/js/2.005e3cfb.chunk.js.LICENSE.txt": "/diprella_login/static/js/2.005e3cfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3772f16.js",
+    "static/js/2.005e3cfb.chunk.js",
+    "static/css/main.c450f6b6.chunk.css",
+    "static/js/main.e5acd4bb.chunk.js"
+  ]
+}
