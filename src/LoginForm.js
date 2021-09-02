@@ -6,7 +6,7 @@ class LoginForm extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
-            maskStyle: {
+            mask: {
                 left: 512,
                 right: 0
             }
@@ -17,10 +17,6 @@ class LoginForm extends React.Component {
         this.signIn = this.signIn.bind(this)
         this.signUp = this.signUp.bind(this)
 
-    }
-
-    componentWillUnmount() {
-        clearInterval(this.interval);
     }
 
     signUp() {
